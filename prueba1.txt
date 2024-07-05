@@ -1,3 +1,3 @@
-hola esta es una prueba para verificar nuestro
-conocimiento dentro de git
-ya siento que e avanzado un poquito en el recordar estos comando y espro seguir asi  q|
+[master 45cf635]  este es el primer commit de este archivo
+ 2 files changed, 4 insertions(+), 1 deletion(-)
+ create mode 100644 prueba1.txt
