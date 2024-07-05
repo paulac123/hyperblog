@@ -1,0 +1,3 @@
+hola esta es una prueba para verificar nuestro
+conocimiento dentro de git
+ya siento que e avanzado un poquito en el recordar estos comando y espro seguir asi  q|
