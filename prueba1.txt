@@ -1,3 +1,0 @@
-[master 45cf635]  este es el primer commit de este archivo
- 2 files changed, 4 insertions(+), 1 deletion(-)
- create mode 100644 prueba1.txt
